@@ -1,5 +1,5 @@
-  
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap');
+@import url("https://www.w3schools.com/w3css/4/w3.css");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
 
 /* base styles */
 body {
@@ -7,6 +7,6 @@ body {
   margin: 0;
   font-size: 1.5em;
   text-align: center;
-  background: #3e3e76;
+  background: #1b1523;
   color: #fff;
 }
